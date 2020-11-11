@@ -1,3 +1,3 @@
 # SDK
 
-# Can be programmed with any .net language vb.net f# c#
+# Can be programmed with any .Net language vb.net F# C#
